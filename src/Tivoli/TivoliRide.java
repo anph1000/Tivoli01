@@ -2,5 +2,9 @@ package Tivoli;
 
 public class TivoliRide {
     private int Hight;
-//hej
+
+    public int(Hight)
+        this.Hight = Hight
+
+    }
 }
